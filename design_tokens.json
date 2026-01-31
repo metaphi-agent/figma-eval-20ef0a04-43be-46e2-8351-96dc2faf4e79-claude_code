@@ -1,0 +1,58 @@
+{
+  "colors": {
+    "primary": "#00A8CC",
+    "secondary": "#2C3E5C",
+    "background": "#FFFFFF",
+    "gray-light": "#F5F5F5",
+    "gray": "#EAEAEA",
+    "gray-dark": "#666666",
+    "text-primary": "#1A1A1A",
+    "text-secondary": "#666666",
+    "discount": "#00A8CC",
+    "footer": "#00A8CC"
+  },
+  "typography": {
+    "font-family": "Inter, system-ui, sans-serif",
+    "sizes": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem",
+      "2xl": "1.5rem",
+      "3xl": "2rem",
+      "4xl": "2.5rem"
+    }
+  },
+  "spacing": {
+    "xs": "0.25rem",
+    "sm": "0.5rem",
+    "md": "1rem",
+    "lg": "1.5rem",
+    "xl": "2rem",
+    "2xl": "3rem"
+  },
+  "components": {
+    "header": {
+      "height": "120px",
+      "topbar-height": "40px"
+    },
+    "hero": {
+      "height": "400px",
+      "background": "#2C3E5C"
+    },
+    "product-card": {
+      "padding": "1rem",
+      "border-radius": "0.5rem",
+      "border": "1px solid #E5E5E5"
+    },
+    "button": {
+      "primary": {
+        "background": "#00A8CC",
+        "color": "#FFFFFF",
+        "padding": "0.75rem 1.5rem",
+        "border-radius": "0.375rem"
+      }
+    }
+  }
+}
