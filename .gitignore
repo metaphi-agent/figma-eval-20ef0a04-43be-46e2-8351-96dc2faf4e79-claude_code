@@ -1,0 +1,6 @@
+node_modules/
+.claude/
+.metaphi/
+figma_exports/
+ground_truth/
+package-lock.json
